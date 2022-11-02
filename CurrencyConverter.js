@@ -55,4 +55,4 @@ function getResults() {
 // when user clicks, it calls function getresults
 convertElm.addEventListener("click", getResults);
 
-(() => {})();
+
